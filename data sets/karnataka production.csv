@@ -1,0 +1,513 @@
+state,district,crop,area,production
+Karnataka,BAGALKOTE,arhar/tur dal,6144,2673
+Karnataka,BAGALKOTE,coconut,743,6630
+Karnataka,BAGALKOTE,cotton,3299,8996
+Karnataka,BAGALKOTE,cowpea,83,36
+Karnataka,BAGALKOTE,gram,91880,54728
+Karnataka,BAGALKOTE,groundnut,1406,1344
+Karnataka,BAGALKOTE,jowar,965,1492
+Karnataka,BAGALKOTE,Maize,44472,166543
+Karnataka,BAGALKOTE,moong dal,22974,4081
+Karnataka,BAGALKOTE,onion,10969,82750
+Karnataka,BAGALKOTE,rice,25,76
+Karnataka,BAGALKOTE,soyabean,2505,2401
+Karnataka,BAGALKOTE,sugarcane,93679,10234431
+Karnataka,BAGALKOTE,sunflower,13020,8151
+Karnataka,BAGALKOTE,turmeric,2164,15005
+Karnataka,BAGALKOTE,urad,630,175
+Karnataka,BAGALKOTE,wheat,23237,36071
+Karnataka,BANGALORE RUR,arecanut,1519,14055
+Karnataka,BANGALORE RUR,arhar/tur dal,1554,1736
+Karnataka,BANGALORE RUR,coconut,2255,20123
+Karnataka,BANGALORE RUR,cowpea,591,881
+Karnataka,BANGALORE RUR,gram,270,194
+Karnataka,BANGALORE RUR,groundnut,275,155
+Karnataka,BANGALORE RUR,horsegram,452,222
+Karnataka,BANGALORE RUR,Maize,14334,44066
+Karnataka,BANGALORE RUR,moong dal,7,1
+Karnataka,BANGALORE RUR,onion,69,354
+Karnataka,BANGALORE RUR,potato,439,2702
+Karnataka,BANGALORE RUR,ragi,35844,91940
+Karnataka,BANGALORE RUR,rice,598,2093
+Karnataka,BANGALORE RUR,sunflower,18,10
+Karnataka,BANGALORE RUR,sweet potato,19,322
+Karnataka,BANGALORE RUR,turmeric,1,6
+Karnataka,BANGALORE RUR,urad,3,1
+Karnataka,BELGAM,arecanut,7,65
+Karnataka,BELGAM,arhar/tur dal,2869,2322
+Karnataka,BELGAM,coconut,131,1169
+Karnataka,BELGAM,cotton,39811,108785
+Karnataka,BELGAM,cowpea,871,830
+Karnataka,BELGAM,gram,78641,48934
+Karnataka,BELGAM,groundnut,33675,30904
+Karnataka,BELGAM,horsegram,940,250
+Karnataka,BELGAM,jowar,20218,27793
+Karnataka,BELGAM,jowar,64,135
+Karnataka,BELGAM,Maize,119185,447468
+Karnataka,BELGAM,moong dal,25848,4616
+Karnataka,BELGAM,onion,10001,48132
+Karnataka,BELGAM,potato,3616,34345
+Karnataka,BELGAM,ragi,1032,1207
+Karnataka,BELGAM,rice,59938,176688
+Karnataka,BELGAM,soyabean,74314,67986
+Karnataka,BELGAM,sugarcane,180571,16296533
+Karnataka,BELGAM,sunflower,6253,4295
+Karnataka,BELGAM,sweet potato,2135,38885
+Karnataka,BELGAM,turmeric,1960,4943
+Karnataka,BELGAM,urad,2705,601
+Karnataka,BELGAM,wheat,46809,74085
+Karnataka,BELLARY,arecanut,1,9
+Karnataka,BELLARY,arhar/tur dal,3427,1319
+Karnataka,BELLARY,coconut,555,4953
+Karnataka,BELLARY,cotton,78646,242150
+Karnataka,BELLARY,cowpea,284,125
+Karnataka,BELLARY,gram,67266,50611
+Karnataka,BELLARY,groundnut,47214,46513
+Karnataka,BELLARY,horsegram,443,213
+Karnataka,BELLARY,jowar,21316,40197
+Karnataka,BELLARY,jowar,897,1604
+Karnataka,BELLARY,Maize,95624,249999
+Karnataka,BELLARY,moong dal,76,12
+Karnataka,BELLARY,onion,5726,44431
+Karnataka,BELLARY,potato,10,62
+Karnataka,BELLARY,ragi,2897,2042
+Karnataka,BELLARY,rice,77598,286690
+Karnataka,BELLARY,sugarcane,3406,349456
+Karnataka,BELLARY,sunflower,10633,6495
+Karnataka,BELLARY,urad,124,35
+Karnataka,BELLARY,wheat,263,344
+Karnataka,BANGALORE URB,arecanut,231,2137
+Karnataka,BANGALORE URB,arhar/tur dal,2093,1362
+Karnataka,BANGALORE URB,coconut,1281,11431
+Karnataka,BANGALORE URB,cowpea,173,76
+Karnataka,BANGALORE URB,gram,33,24
+Karnataka,BANGALORE URB,groundnut,84,61
+Karnataka,BANGALORE URB,horsegram,199,135
+Karnataka,BANGALORE URB,jowar,538,744
+Karnataka,BANGALORE URB,jowar,3,6
+Karnataka,BANGALORE URB,Maize,634,1985
+Karnataka,BANGALORE URB,moong dal,13,3
+Karnataka,BANGALORE URB,onion,8,41
+Karnataka,BANGALORE URB,potato,64,394
+Karnataka,BANGALORE URB,ragi,23792,66654
+Karnataka,BANGALORE URB,rice,950,3374
+Karnataka,BANGALORE URB,sugarcane,2,182
+Karnataka,BANGALORE URB,sunflower,4,2
+Karnataka,BANGALORE URB,urad,17,5
+Karnataka,BIDAR,arhar/tur dal,65965,44243
+Karnataka,BIDAR,coconut,19,170
+Karnataka,BIDAR,cotton,291,794
+Karnataka,BIDAR,cowpea,54,24
+Karnataka,BIDAR,gram,25973,14138
+Karnataka,BIDAR,groundnut,243,62
+Karnataka,BIDAR,jowar,24725,29948
+Karnataka,BIDAR,Maize,1065,1329
+Karnataka,BIDAR,moong dal,29743,5990
+Karnataka,BIDAR,onion,170,873
+Karnataka,BIDAR,potato,66,406
+Karnataka,BIDAR,rice,2063,1989
+Karnataka,BIDAR,soyabean,120020,68525
+Karnataka,BIDAR,sugarcane,28867,1892232
+Karnataka,BIDAR,sunflower,1014,412
+Karnataka,BIDAR,turmeric,59,114
+Karnataka,BIDAR,urad,23718,5250
+Karnataka,BIDAR,wheat,4340,5385
+Karnataka,BIJAPUR,arhar/tur dal,187324,114783
+Karnataka,BIJAPUR,coconut,296,2641
+Karnataka,BIJAPUR,cotton,14303,32450
+Karnataka,BIJAPUR,cowpea,285,32
+Karnataka,BIJAPUR,gram,171009,115021
+Karnataka,BIJAPUR,groundnut,19413,12633
+Karnataka,BIJAPUR,Maize,54990,175215
+Karnataka,BIJAPUR,moong dal,5197,523
+Karnataka,BIJAPUR,onion,8824,46298
+Karnataka,BIJAPUR,rice,50,153
+Karnataka,BIJAPUR,sugarcane,49050,3914190
+Karnataka,BIJAPUR,sunflower,30515,15132
+Karnataka,BIJAPUR,turmeric,63,377
+Karnataka,BIJAPUR,urad,306,85
+Karnataka,BIJAPUR,wheat,53709,55207
+Karnataka,CHAMARAJANAGAR,arecanut,300,2776
+Karnataka,CHAMARAJANAGAR,arhar/tur dal,1054,473
+Karnataka,CHAMARAJANAGAR,coconut,9122,81403
+Karnataka,CHAMARAJANAGAR,cotton,15063,17592
+Karnataka,CHAMARAJANAGAR,cowpea,3798,870
+Karnataka,CHAMARAJANAGAR,gram,2780,1656
+Karnataka,CHAMARAJANAGAR,groundnut,13384,9333
+Karnataka,CHAMARAJANAGAR,horsegram,15081,6705
+Karnataka,CHAMARAJANAGAR,jowar,14019,6033
+Karnataka,CHAMARAJANAGAR,Maize,32800,140127
+Karnataka,CHAMARAJANAGAR,moong dal,3266,990
+Karnataka,CHAMARAJANAGAR,onion,1937,9948
+Karnataka,CHAMARAJANAGAR,potato,147,905
+Karnataka,CHAMARAJANAGAR,ragi,15415,23812
+Karnataka,CHAMARAJANAGAR,rice,13739,44455
+Karnataka,CHAMARAJANAGAR,sugarcane,3573,298703
+Karnataka,CHAMARAJANAGAR,sunflower,9141,2223
+Karnataka,CHAMARAJANAGAR,turmeric,4878,31448
+Karnataka,CHAMARAJANAGAR,urad,2960,920
+Karnataka,CHIKBALLAPUR,arecanut,140,1295
+Karnataka,CHIKBALLAPUR,arhar/tur dal,3417,1834
+Karnataka,CHIKBALLAPUR,coconut,2087,18624
+Karnataka,CHIKBALLAPUR,cotton,67,183
+Karnataka,CHIKBALLAPUR,cowpea,1020,910
+Karnataka,CHIKBALLAPUR,gram,66,47
+Karnataka,CHIKBALLAPUR,groundnut,18166,9405
+Karnataka,CHIKBALLAPUR,horsegram,185,62
+Karnataka,CHIKBALLAPUR,jowar,833,1152
+Karnataka,CHIKBALLAPUR,Maize,64454,129627
+Karnataka,CHIKBALLAPUR,onion,563,2891
+Karnataka,CHIKBALLAPUR,potato,209,2659
+Karnataka,CHIKBALLAPUR,ragi,46858,69310
+Karnataka,CHIKBALLAPUR,rice,799,1900
+Karnataka,CHIKBALLAPUR,sugarcane,58,5290
+Karnataka,CHIKBALLAPUR,sunflower,5,3
+Karnataka,CHIKBALLAPUR,sweet potato,9,153
+Karnataka,CHIKMAGALUR,arecanut,27765,147882
+Karnataka,CHIKMAGALUR,arhar/tur dal,545,355
+Karnataka,CHIKMAGALUR,coconut,41329,238089
+Karnataka,CHIKMAGALUR,cotton,1843,3018
+Karnataka,CHIKMAGALUR,cowpea,503,175
+Karnataka,CHIKMAGALUR,gram,9300,8535
+Karnataka,CHIKMAGALUR,groundnut,4762,3791
+Karnataka,CHIKMAGALUR,horsegram,7592,4962
+Karnataka,CHIKMAGALUR,jowar,2058,1789
+Karnataka,CHIKMAGALUR,Maize,23589,60797
+Karnataka,CHIKMAGALUR,moong dal,3396,616
+Karnataka,CHIKMAGALUR,onion,7343,38374
+Karnataka,CHIKMAGALUR,potato,5150,30006
+Karnataka,CHIKMAGALUR,ragi,44122,52437
+Karnataka,CHIKMAGALUR,rice,37327,97056
+Karnataka,CHIKMAGALUR,sugarcane,1391,132145
+Karnataka,CHIKMAGALUR,sunflower,3240,1468
+Karnataka,CHIKMAGALUR,sweet potato,141,1290
+Karnataka,CHIKMAGALUR,turmeric,5,30
+Karnataka,CHIKMAGALUR,urad,185,30
+Karnataka,CHITRADURGA,arecanut,17190,194006
+Karnataka,CHITRADURGA,arhar/tur dal,8728,7205
+Karnataka,CHITRADURGA,coconut,38729,297915
+Karnataka,CHITRADURGA,cotton,28366,48504
+Karnataka,CHITRADURGA,cowpea,523,230
+Karnataka,CHITRADURGA,gram,32153,21534
+Karnataka,CHITRADURGA,groundnut,118724,77034
+Karnataka,CHITRADURGA,horsegram,3152,1318
+Karnataka,CHITRADURGA,jowar,2755,3826
+Karnataka,CHITRADURGA,jowar,447,945
+Karnataka,CHITRADURGA,Maize,86351,247823
+Karnataka,CHITRADURGA,moong dal,4506,860
+Karnataka,CHITRADURGA,onion,24129,201925
+Karnataka,CHITRADURGA,ragi,54642,87468
+Karnataka,CHITRADURGA,rice,1048,2376
+Karnataka,CHITRADURGA,sunflower,12272,6307
+Karnataka,CHITRADURGA,wheat,266,387
+Karnataka,DAKSHIN KANNADA,arecanut,35183,447929
+Karnataka,DAKSHIN KANNADA,coconut,18407,282127
+Karnataka,DAKSHIN KANNADA,cowpea,2,1
+Karnataka,DAKSHIN KANNADA,horsegram,195,96
+Karnataka,DAKSHIN KANNADA,rice,29749,78228
+Karnataka,DAKSHIN KANNADA,sugarcane,10,912
+Karnataka,DAKSHIN KANNADA,sweet potato,288,4885
+Karnataka,DAKSHIN KANNADA,turmeric,60,359
+Karnataka,DAVANGERE,arecanut,32316,232268
+Karnataka,DAVANGERE,arhar/tur dal,4403,6224
+Karnataka,DAVANGERE,coconut,11863,164139
+Karnataka,DAVANGERE,cotton,20325,29075
+Karnataka,DAVANGERE,cowpea,316,139
+Karnataka,DAVANGERE,gram,2652,1756
+Karnataka,DAVANGERE,groundnut,14093,15089
+Karnataka,DAVANGERE,horsegram,857,638
+Karnataka,DAVANGERE,jowar,6977,17372
+Karnataka,DAVANGERE,jowar,592,1629
+Karnataka,DAVANGERE,Maize,179496,576021
+Karnataka,DAVANGERE,moong dal,246,73
+Karnataka,DAVANGERE,onion,6139,35715
+Karnataka,DAVANGERE,potato,24,148
+Karnataka,DAVANGERE,ragi,8729,13658
+Karnataka,DAVANGERE,rice,75259,262676
+Karnataka,DAVANGERE,sugarcane,9523,1221325
+Karnataka,DAVANGERE,sunflower,1204,808
+Karnataka,DAVANGERE,urad,49,14
+Karnataka,DAVANGERE,wheat,374,721
+Karnataka,DHARWAD,arecanut,14,130
+Karnataka,DHARWAD,arhar/tur dal,1609,1637
+Karnataka,DHARWAD,coconut,318,2838
+Karnataka,DHARWAD,cotton,80222,167657
+Karnataka,DHARWAD,cowpea,301,77
+Karnataka,DHARWAD,gram,50622,41502
+Karnataka,DHARWAD,groundnut,26377,21525
+Karnataka,DHARWAD,horsegram,1557,609
+Karnataka,DHARWAD,jowar,2056,1650
+Karnataka,DHARWAD,jowar,18,38
+Karnataka,DHARWAD,Maize,29177,79828
+Karnataka,DHARWAD,moong dal,28788,5306
+Karnataka,DHARWAD,onion,35455,109602
+Karnataka,DHARWAD,potato,1286,7917
+Karnataka,DHARWAD,ragi,11,20
+Karnataka,DHARWAD,rice,20554,32589
+Karnataka,DHARWAD,soyabean,31984,32846
+Karnataka,DHARWAD,sugarcane,8653,641187
+Karnataka,DHARWAD,sunflower,14,8
+Karnataka,DHARWAD,urad,917,227
+Karnataka,DHARWAD,wheat,28985,35714
+Karnataka,GADAG,arecanut,5,46
+Karnataka,GADAG,arhar/tur dal,1540,726
+Karnataka,GADAG,coconut,184,1642
+Karnataka,GADAG,cotton,64795,198055
+Karnataka,GADAG,cowpea,332,106
+Karnataka,GADAG,gram,85005,54186
+Karnataka,GADAG,groundnut,37259,29662
+Karnataka,GADAG,horsegram,836,426
+Karnataka,GADAG,jowar,3985,6254
+Karnataka,GADAG,Maize,53717,146664
+Karnataka,GADAG,moong dal,57368,10246
+Karnataka,GADAG,onion,40943,155350
+Karnataka,GADAG,ragi,10,18
+Karnataka,GADAG,rice,1044,2594
+Karnataka,GADAG,sugarcane,1870,197192
+Karnataka,GADAG,sunflower,7622,4330
+Karnataka,GADAG,turmeric,1,6
+Karnataka,GADAG,urad,21,6
+Karnataka,GADAG,wheat,16757,18068
+Karnataka,GULBARGA,arhar/tur dal,315343,210003
+Karnataka,GULBARGA,coconut,192,1713
+Karnataka,GULBARGA,cotton,82637,338020
+Karnataka,GULBARGA,cowpea,534,221
+Karnataka,GULBARGA,gram,184515,155482
+Karnataka,GULBARGA,groundnut,649,235
+Karnataka,GULBARGA,jowar,1579,1730
+Karnataka,GULBARGA,Maize,4747,12713
+Karnataka,GULBARGA,moong dal,20292,6362
+Karnataka,GULBARGA,onion,710,3646
+Karnataka,GULBARGA,potato,53,326
+Karnataka,GULBARGA,rice,1556,2887
+Karnataka,GULBARGA,soyabean,21695,13170
+Karnataka,GULBARGA,sugarcane,45503,3025950
+Karnataka,GULBARGA,sunflower,21910,12822
+Karnataka,GULBARGA,urad,18672,6616
+Karnataka,GULBARGA,wheat,14149,23751
+Karnataka,HASSAN,arecanut,32,296
+Karnataka,HASSAN,arhar/tur dal,2359,3433
+Karnataka,HASSAN,coconut,61019,382629
+Karnataka,HASSAN,cotton,400,1091
+Karnataka,HASSAN,cowpea,11756,3887
+Karnataka,HASSAN,gram,1847,1897
+Karnataka,HASSAN,groundnut,739,538
+Karnataka,HASSAN,horsegram,6239,3212
+Karnataka,HASSAN,jowar,1126,960
+Karnataka,HASSAN,Maize,78492,307814
+Karnataka,HASSAN,moong dal,10403,1828
+Karnataka,HASSAN,onion,23,118
+Karnataka,HASSAN,potato,22207,124934
+Karnataka,HASSAN,ragi,63354,141859
+Karnataka,HASSAN,rice,45653,140563
+Karnataka,HASSAN,sugarcane,1568,171304
+Karnataka,HASSAN,sunflower,908,691
+Karnataka,HASSAN,sweet potato,51,865
+Karnataka,HASSAN,turmeric,67,323
+Karnataka,HASSAN,urad,2208,422
+Karnataka,HAVERI,arecanut,2314,21410
+Karnataka,HAVERI,arhar/tur dal,1410,964
+Karnataka,HAVERI,coconut,1360,12136
+Karnataka,HAVERI,cotton,105249,211727
+Karnataka,HAVERI,cowpea,108,47
+Karnataka,HAVERI,gram,938,488
+Karnataka,HAVERI,groundnut,15918,20490
+Karnataka,HAVERI,horsegram,4124,2672
+Karnataka,HAVERI,jowar,2431,3540
+Karnataka,HAVERI,jowar,525,1024
+Karnataka,HAVERI,Maize,137136,382369
+Karnataka,HAVERI,moong dal,921,166
+Karnataka,HAVERI,onion,5847,10676
+Karnataka,HAVERI,potato,1,6
+Karnataka,HAVERI,ragi,225,160
+Karnataka,HAVERI,rice,39894,99031
+Karnataka,HAVERI,soyabean,5016,4150
+Karnataka,HAVERI,sugarcane,10376,1094149
+Karnataka,HAVERI,sunflower,89,14
+Karnataka,HAVERI,sweet potato,1,17
+Karnataka,HAVERI,turmeric,3,18
+Karnataka,HAVERI,urad,8,3
+Karnataka,HAVERI,wheat,634,470
+Karnataka,KODAGU,arecanut,4613,42682
+Karnataka,KODAGU,coconut,1586,14153
+Karnataka,KODAGU,groundnut,60,44
+Karnataka,KODAGU,Maize,3467,17740
+Karnataka,KODAGU,potato,18,111
+Karnataka,KODAGU,rice,30899,86741
+Karnataka,KODAGU,sweet potato,24,407
+Karnataka,KOLAR,arhar/tur dal,4657,4929
+Karnataka,KOLAR,coconut,2566,22899
+Karnataka,KOLAR,cowpea,928,785
+Karnataka,KOLAR,gram,8,6
+Karnataka,KOLAR,groundnut,13160,5663
+Karnataka,KOLAR,horsegram,9961,6397
+Karnataka,KOLAR,Maize,439,1374
+Karnataka,KOLAR,onion,107,550
+Karnataka,KOLAR,ragi,52427,70824
+Karnataka,KOLAR,rice,344,873
+Karnataka,KOPPAL,arhar/tur dal,14572,8472
+Karnataka,KOPPAL,coconut,812,7246
+Karnataka,KOPPAL,cotton,12128,36529
+Karnataka,KOPPAL,cowpea,2005,733
+Karnataka,KOPPAL,gram,52053,31352
+Karnataka,KOPPAL,groundnut,13360,10750
+Karnataka,KOPPAL,horsegram,9093,4570
+Karnataka,KOPPAL,jowar,2385,4420
+Karnataka,KOPPAL,jowar,472,998
+Karnataka,KOPPAL,Maize,56712,172189
+Karnataka,KOPPAL,moong dal,16571,2204
+Karnataka,KOPPAL,onion,4178,45458
+Karnataka,KOPPAL,rice,39439,145559
+Karnataka,KOPPAL,sugarcane,2383,217330
+Karnataka,KOPPAL,sunflower,16994,12286
+Karnataka,KOPPAL,wheat,6356,8164
+Karnataka,MANDYA,arecanut,674,6236
+Karnataka,MANDYA,arhar/tur dal,1073,315
+Karnataka,MANDYA,coconut,27573,273682
+Karnataka,MANDYA,cotton,5,14
+Karnataka,MANDYA,cowpea,3796,1616
+Karnataka,MANDYA,gram,211,152
+Karnataka,MANDYA,groundnut,1176,824
+Karnataka,MANDYA,horsegram,20555,9783
+Karnataka,MANDYA,jowar,1293,1788
+Karnataka,MANDYA,Maize,3904,15978
+Karnataka,MANDYA,moong dal,188,37
+Karnataka,MANDYA,onion,212,1089
+Karnataka,MANDYA,potato,19,117
+Karnataka,MANDYA,ragi,50810,89492
+Karnataka,MANDYA,rice,51037,189916
+Karnataka,MANDYA,sugarcane,21592,2543538
+Karnataka,MANDYA,sunflower,12,7
+Karnataka,MANDYA,sweet potato,444,5959
+Karnataka,MANDYA,turmeric,31,70
+Karnataka,MANDYA,urad,180,50
+Karnataka,MYSORE,arecanut,1786,16525
+Karnataka,MYSORE,arhar/tur dal,2697,1617
+Karnataka,MYSORE,coconut,22352,197674
+Karnataka,MYSORE,cotton,48174,85874
+Karnataka,MYSORE,cowpea,22587,8948
+Karnataka,MYSORE,gram,2240,1551
+Karnataka,MYSORE,groundnut,2567,1853
+Karnataka,MYSORE,horsegram,34171,14965
+Karnataka,MYSORE,jowar,5459,8038
+Karnataka,MYSORE,Maize,30195,101259
+Karnataka,MYSORE,moong dal,7912,2247
+Karnataka,MYSORE,potato,200,1231
+Karnataka,MYSORE,ragi,26942,60430
+Karnataka,MYSORE,rice,94359,319929
+Karnataka,MYSORE,sugarcane,4104,374285
+Karnataka,MYSORE,sunflower,696,827
+Karnataka,MYSORE,sweet potato,28,475
+Karnataka,MYSORE,turmeric,3382,23234
+Karnataka,MYSORE,urad,10082,3007
+Karnataka,RAICHUR,arhar/tur dal,37594,24929
+Karnataka,RAICHUR,coconut,80,714
+Karnataka,RAICHUR,cotton,104970,302671
+Karnataka,RAICHUR,cowpea,172,75
+Karnataka,RAICHUR,gram,60078,57474
+Karnataka,RAICHUR,groundnut,2847,1571
+Karnataka,RAICHUR,horsegram,502,215
+Karnataka,RAICHUR,Maize,198,293
+Karnataka,RAICHUR,moong dal,266,10
+Karnataka,RAICHUR,onion,1173,7150
+Karnataka,RAICHUR,rice,97935,320982
+Karnataka,RAICHUR,sugarcane,295,26904
+Karnataka,RAICHUR,sunflower,13318,6048
+Karnataka,RAICHUR,turmeric,35,210
+Karnataka,RAICHUR,wheat,656,589
+Karnataka,RAMANAGARA,arecanut,1452,13435
+Karnataka,RAMANAGARA,arhar/tur dal,2468,1564
+Karnataka,RAMANAGARA,coconut,15056,167850
+Karnataka,RAMANAGARA,cotton,1,3
+Karnataka,RAMANAGARA,cowpea,1160,1697
+Karnataka,RAMANAGARA,gram,18,13
+Karnataka,RAMANAGARA,groundnut,3648,4332
+Karnataka,RAMANAGARA,horsegram,2154,1512
+Karnataka,RAMANAGARA,Maize,2084,8262
+Karnataka,RAMANAGARA,moong dal,6,1
+Karnataka,RAMANAGARA,onion,7,36
+Karnataka,RAMANAGARA,potato,12,74
+Karnataka,RAMANAGARA,ragi,69083,136049
+Karnataka,RAMANAGARA,rice,4617,10759
+Karnataka,RAMANAGARA,sugarcane,1027,67320
+Karnataka,RAMANAGARA,sunflower,2,1
+Karnataka,RAMANAGARA,sweet potato,18,305
+Karnataka,RAMANAGARA,turmeric,21,126
+Karnataka,RAMANAGARA,urad,20,6
+Karnataka,SHIMOGA,arecanut,51689,386605
+Karnataka,SHIMOGA,arhar/tur dal,251,163
+Karnataka,SHIMOGA,coconut,5403,48216
+Karnataka,SHIMOGA,cotton,849,2111
+Karnataka,SHIMOGA,cowpea,146,64
+Karnataka,SHIMOGA,gram,13,9
+Karnataka,SHIMOGA,groundnut,249,181
+Karnataka,SHIMOGA,horsegram,44,22
+Karnataka,SHIMOGA,jowar,309,662
+Karnataka,SHIMOGA,jowar,35,74
+Karnataka,SHIMOGA,Maize,58712,209831
+Karnataka,SHIMOGA,moong dal,5,1
+Karnataka,SHIMOGA,ragi,564,1039
+Karnataka,SHIMOGA,rice,105581,313744
+Karnataka,SHIMOGA,sugarcane,3940,393015
+Karnataka,SHIMOGA,sunflower,13,7
+Karnataka,SHIMOGA,turmeric,34,149
+Karnataka,SHIMOGA,urad,11,3
+Karnataka,TUMKUR,arecanut,32775,314901
+Karnataka,TUMKUR,arhar/tur dal,10040,2337
+Karnataka,TUMKUR,coconut,149419,1283692
+Karnataka,TUMKUR,cotton,1742,4507
+Karnataka,TUMKUR,cowpea,2581,1530
+Karnataka,TUMKUR,gram,1892,1359
+Karnataka,TUMKUR,groundnut,86127,42056
+Karnataka,TUMKUR,horsegram,2956,570
+Karnataka,TUMKUR,jowar,29,14
+Karnataka,TUMKUR,jowar,452,955
+Karnataka,TUMKUR,Maize,27981,66721
+Karnataka,TUMKUR,moong dal,8624,729
+Karnataka,TUMKUR,onion,625,2844
+Karnataka,TUMKUR,potato,51,314
+Karnataka,TUMKUR,ragi,170691,323016
+Karnataka,TUMKUR,rice,7636,22713
+Karnataka,TUMKUR,sugarcane,1670,174515
+Karnataka,TUMKUR,sunflower,1467,1045
+Karnataka,TUMKUR,sweet potato,27,458
+Karnataka,TUMKUR,turmeric,1,6
+Karnataka,TUMKUR,urad,176,51
+Karnataka,UDUPI,arecanut,7856,109506
+Karnataka,UDUPI,coconut,17825,313547
+Karnataka,UDUPI,horsegram,53,71
+Karnataka,UDUPI,rice,43013,119359
+Karnataka,UDUPI,sugarcane,42,3830
+Karnataka,UDUPI,sweet potato,180,3053
+Karnataka,UDUPI,turmeric,52,311
+Karnataka,UTTAR KANNADA,arecanut,17912,227247
+Karnataka,UTTAR KANNADA,arhar/tur dal,5,3
+Karnataka,UTTAR KANNADA,coconut,7784,69463
+Karnataka,UTTAR KANNADA,cotton,1412,2612
+Karnataka,UTTAR KANNADA,gram,18,13
+Karnataka,UTTAR KANNADA,groundnut,149,109
+Karnataka,UTTAR KANNADA,horsegram,461,226
+Karnataka,UTTAR KANNADA,Maize,5667,21938
+Karnataka,UTTAR KANNADA,ragi,8,15
+Karnataka,UTTAR KANNADA,rice,65865,145604
+Karnataka,UTTAR KANNADA,soyabean,4,3
+Karnataka,UTTAR KANNADA,sugarcane,6207,483525
+Karnataka,UTTAR KANNADA,sweet potato,20,339
+Karnataka,UTTAR KANNADA,turmeric,7,42
+Karnataka,YADGIR,arhar/tur dal,44909,28414
+Karnataka,YADGIR,coconut,168,1499
+Karnataka,YADGIR,cotton,103866,362752
+Karnataka,YADGIR,cowpea,68,30
+Karnataka,YADGIR,gram,17533,12026
+Karnataka,YADGIR,groundnut,3751,3225
+Karnataka,YADGIR,horsegram,135,72
+Karnataka,YADGIR,jowar,490,441
+Karnataka,YADGIR,jowar,29,61
+Karnataka,YADGIR,Maize,714,2316
+Karnataka,YADGIR,moong dal,10550,3598
+Karnataka,YADGIR,onion,395,2029
+Karnataka,YADGIR,rice,51456,146014
+Karnataka,YADGIR,sugarcane,862,78614
+Karnataka,YADGIR,sunflower,4215,2114
+Karnataka,YADGIR,urad,184,65
+Karnataka,YADGIR,wheat,1080,1137
